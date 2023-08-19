@@ -1,0 +1,16 @@
+<=> User Account
+
+1. marco@gmail.com => Marcoantonio123456   => Administrator
+2. born@gmail.com => Marcoantonio123456    => Lecturer
+3. rendy@gmail.com => Marcoantonio123456   => Student
+4. antonio@gmail.com => Marcoantonio12345 => Student
+
+
+<=> Register
+
+a) automatically the account's role is student
+b) automatically the account'picture set 'default.jpg'
+
+<=> User Administrator
+Still need more features 
+ 
